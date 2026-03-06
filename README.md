@@ -94,6 +94,6 @@ Analisis ini mengonfirmasi bahwa sebagian kecil "Power Cities" (kota utama) meng
 3. **Fokus Inventaris:** Meningkatkan stok produk-produk terlaris di pusat-pusat pendapatan tinggi untuk memastikan ketersediaan selama musim puncak (peak seasons).
 
 
-## 📂 Struktur Folder
+## 📂 Struktur 
 * 📁 `data/`: Berisi file `Sales Data_visualisation.csv`.
 * 📁 `visualizations/`: Berisi tangkapan layar dashboard (PNG).
