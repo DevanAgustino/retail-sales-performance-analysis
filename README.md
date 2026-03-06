@@ -17,7 +17,7 @@ Based on the visualization (e.g., *Top Cities with Highest Income*), the followi
 The dashboard provides an end-to-end view of the retail business health.
 
 ### **Featured Analysis: Top Cities with Highest Income**
-![Sales Dashboard Screenshot](visualizations/sales_dashboard_preview.png)
+![Sales Dashboard Screenshot]()
 
 ![View Sales Dashboard on Looker Studio](https://lookerstudio.google.com/reporting/7dcb3dd4-dafb-44bf-9bd7-47bc61a3e510)
 
